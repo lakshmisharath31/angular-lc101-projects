@@ -1,0 +1,12 @@
+.chores h3{
+    color:red;
+    font-size: xx-large;
+    text-decoration: underline;
+   
+
+}
+.chores li{
+    color:plum;
+    font-size: large;
+    font-style: italic;
+}
